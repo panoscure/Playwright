@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LambdaTest ecommerce playground website test suite">
+    <test name="Web Automation Demo tests with Playwright">
+        <classes>
+            <class name="desktopweb.winningColumnsEntry.WinColumn3D">
+                <methods>
+                    <include name="QAAU23_1568"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite> <!-- Suite -->
